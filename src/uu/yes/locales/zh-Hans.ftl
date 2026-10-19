@@ -1,3 +1,3 @@
 yes-about = 重复地输出 STRING（或者“y”）的行
 yes-usage = yes [STRING]...
-yes-error-standard-output = 标准输出： { $error }
+yes-error-standard-output = 标准输出：{ $error }
